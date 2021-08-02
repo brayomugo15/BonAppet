@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">20dp</dimen>
+
+    <dimen name="text_medium">15dp</dimen>
+
+    <dimen name="spacing_1">5dp</dimen>
+    <dimen name="spacing_2">8dp</dimen>
+    <dimen name="spacing_3">10dp</dimen>
+    <dimen name="spacing_4">12dp</dimen>
+    <dimen name="spacing_5">15dp</dimen>
+    <dimen name="spacing_6">18dp</dimen>
+    <dimen name="spacing_7">20dp</dimen>
+</resources>
