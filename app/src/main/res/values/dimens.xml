@@ -11,4 +11,10 @@
     <dimen name="spacing_5">15dp</dimen>
     <dimen name="spacing_6">18dp</dimen>
     <dimen name="spacing_7">20dp</dimen>
+
+    <dimen name="button_w_medium">120dp</dimen>
+    <dimen name="button_w_large">150dp</dimen>
+
+    <dimen name="button_h_medium">45dp</dimen>
+    <dimen name="button_h_large">50dp</dimen>
 </resources>
