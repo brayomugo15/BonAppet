@@ -1,8 +1,10 @@
-package com.project.bonappet;
+package com.project.bonappet.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.project.bonappet.R;
 
 public class MainActivity extends AppCompatActivity {
 
