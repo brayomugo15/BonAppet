@@ -14,6 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.project.bonappet.R;
 
 import org.jetbrains.annotations.NotNull;
@@ -24,6 +25,7 @@ public class HomeFragment extends Fragment {
     private View view;
 
     private RecyclerView recyclerView;
+    private FloatingActionButton fabAdd;
 
     @Override
     public void onCreate(@Nullable @org.jetbrains.annotations.Nullable Bundle savedInstanceState) {
@@ -40,11 +42,13 @@ public class HomeFragment extends Fragment {
 
         // find view by id
         recyclerView = view.findViewById(R.id.recyclerview);
+        fabAdd = view.findViewById(R.id.fab_add);
 
         // set / load data
 
 
         // listeners
+        fabAdd.setOnClickListener(addListener);
 
 
         return view;
@@ -69,4 +73,14 @@ public class HomeFragment extends Fragment {
 
         return super.onOptionsItemSelected(item);
     }
+
+    /**
+     * On Click action button
+     */
+    private View.OnClickListener addListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+
+        }
+    };
 }
