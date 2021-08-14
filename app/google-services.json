@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189649931560",
+    "project_id": "bonappet-d78a7",
+    "storage_bucket": "bonappet-d78a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189649931560:android:25fe0e22e0c60c2ccc941d",
+        "android_client_info": {
+          "package_name": "com.project.bonappet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189649931560-mb1tkt4i9pevqsl6elobro2fjkm0969e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaqLV4aLxObd8pVzC2gET4l0MPZi5HtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189649931560-mb1tkt4i9pevqsl6elobro2fjkm0969e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
