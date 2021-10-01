@@ -9,7 +9,8 @@ In Progress
 - [Contributors](#Contributors)
 
 ## Prerequisite
-
+- [Setting Up](#Setting)
+- [Libraries](#Libraries)
 
 ## Related Resources
 
