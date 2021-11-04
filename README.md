@@ -1,7 +1,7 @@
 # BonAppet
 
 
-In Progress
+Work in Progress
 
 ## Table of Contents
 - [Prerequisite](#Prerequisite)
